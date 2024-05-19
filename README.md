@@ -1,6 +1,6 @@
 # Weather App with Redux Toolkit
 
-This weather app serves as a practical example of integrating Redux Toolkit in a React application for state management, alongside the use of HTTP methods to interact with a weather API.
+This weather app serves as a simple practical example of integrating Redux Toolkit in a React application for state management, alongside the use of HTTP methods to interact with a weather API.
 
 ## Features
 
